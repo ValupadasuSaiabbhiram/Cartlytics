@@ -1,4 +1,4 @@
-# 🛒 FP-Growth Market Basket Dashboard
+# 🛒 Cartlytics
 
 An interactive Streamlit app for Market Basket Analysis using the FP-Growth algorithm.
 Upload a CSV of transactions, tune support/confidence/lift thresholds, and explore:
