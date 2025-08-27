@@ -1,0 +1,4 @@
+/* Subtle polish for cards & tables */
+.block-container { padding-top: 1rem; }
+[data-testid="stMetricValue"] { font-weight: 800; }
+table { border-radius: 12px; overflow: hidden; }
